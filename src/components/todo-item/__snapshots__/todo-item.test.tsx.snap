@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList component should be valid with last version 1`] = `
+<DocumentFragment>
+  <div
+    class="css-14jp1cp"
+  >
+    <div
+      class="css-1xecl85"
+      data-testid="todo-container"
+    >
+      <p
+        class="chakra-text css-0"
+        data-testid="todo-text"
+      >
+        todo 1
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

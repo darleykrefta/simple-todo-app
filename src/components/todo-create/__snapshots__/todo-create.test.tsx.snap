@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoCreate component should be valid with last version 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1vr2anf"
+  >
+    <p
+      class="chakra-text css-1hdr793"
+    >
+      TODO
+    </p>
+    <div
+      class="css-uvr4ox"
+    >
+      <span
+        class="chakra-badge css-1lzl5c4"
+      >
+        <p
+          class="chakra-text css-4jky3p"
+          data-testid="completed-label"
+        >
+          completed 0
+        </p>
+      </span>
+      <span
+        class="chakra-badge css-1lzl5c4"
+        data-testid="uncompleted-label"
+      >
+        uncompleted 0
+      </span>
+    </div>
+    <div
+      class="css-n6xhs7"
+    >
+      <input
+        class="chakra-input css-kp1c15"
+        data-testid="input-todo-add"
+        value=""
+      />
+      <button
+        class="chakra-button css-xfuke2"
+        data-testid="button-todo-add"
+        type="button"
+      >
+        ADD
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
